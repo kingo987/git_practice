@@ -13,3 +13,9 @@
     and then commit changes by using:
         git commit -m "<message>, which is further used to identify what changes were commited."
 
+5. history of changes can be checked by using:
+    git log
+
+6. contents of the file can be seen by using
+    git show
+
