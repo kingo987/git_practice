@@ -1,1 +1,15 @@
-practice checking git
+1.initialising git:
+    git init
+
+2.checking status of git:
+    git status
+
+3. adding file which are not in git:
+    git add <filename1> <filename2> OR git add all
+
+4.commiting changes for a local repository:
+    first add email for the machine by using:
+        git config user.email "<email_id>"
+    and then commit changes by using:
+        git commit -m "<message>, which is further used to identify what changes were commited."
+
